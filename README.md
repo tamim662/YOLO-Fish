@@ -37,7 +37,6 @@ backup=backup/
 ``` bash
 ./darknet detector map data/obj.data cfg/yolo-fish-2.cfg backup/merge_yolo-fish-2.weights  
 ```
-
 ## Run the command to test on video for real-time detection   
 ```bash
 ./darknet detector demo data/obj.data cfg/yolo-fish-2.cfg backup/merge_yolo-fish-2.weights input.mp4 -dont_show -ext_output -out_filename output.avi
