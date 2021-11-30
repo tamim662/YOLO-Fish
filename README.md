@@ -17,15 +17,12 @@ This projects was implemented using darknet framework for detection model. To kn
   [test dataset of deepfish](https://drive.google.com/file/d/1q_t-tIdgmx8nU3JSe3PmzShrhuWSIgnr/view?usp=sharing)  
   [test dataset of ozfish](https://drive.google.com/file/d/1IXU_d7dcNLQyGelNuSkjburbPrz9e6V-/view?usp=sharing)  
   [test dataset of merge dataset](https://drive.google.com/file/d/1u7e-eeOn5sHH3daZnw6NJ_GrRNVqIeq7/view?usp=sharing)
-  
 2. Download the cfg file of a chosen model.  
   [cfg of different models](https://github.com/tamim662/YOLO-Fish/tree/main/models) 
-  
 3. Download the Model's weights.(google-drive mirror)  
   [models trained on deepfish](https://drive.google.com/drive/folders/19noH5nyLa_06Hztm4JsZidfQdGOVMtzA?usp=sharing)  
   [models trained on ozfish](https://drive.google.com/drive/folders/1zLLY__psydTw2EDbejWMPL2nmlOsuag-?usp=sharing)  
   [models trained on merge dataset](https://drive.google.com/drive/folders/13pQDNSYwXNs6Pd3g8XPSLCy25ND_j8E9?usp=sharing)   
-  
 4. Content of the file obj.data should be  
 ```
 classes=1
