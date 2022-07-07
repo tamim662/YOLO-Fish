@@ -5,7 +5,7 @@
 ![Detection on OzFish](OzFish.gif) 
 
 # Dataset
-Download the annotated DeepFish dataset from [here](https://drive.google.com/file/d/16GLRMzYSX_JEYbiRYm3ZN9Ee_QLo_mT2/view?usp=sharing)  
+Download the annotated DeepFish dataset from [here](https://drive.google.com/file/d/10Pr4lLeSGTfkjA40ReGSC8H3a9onfMZ0/view?usp=sharing)  
 To download OzFish dataset, visit the [link](https://github.com/open-AIMS/ozfish)
 
 # Working Procedure
@@ -14,15 +14,15 @@ This projects was implemented using darknet framework for detection model. To kn
 # Evaluation Model
 
 1. Download the test dataset and unzip.  
-  [test dataset of deepfish](https://drive.google.com/file/d/1q_t-tIdgmx8nU3JSe3PmzShrhuWSIgnr/view?usp=sharing)  
-  [test dataset of ozfish](https://drive.google.com/file/d/1IXU_d7dcNLQyGelNuSkjburbPrz9e6V-/view?usp=sharing)  
+  [test dataset of deepfish](https://drive.google.com/file/d/1iHPFbqo-B2iVytusHic9s8VuMlLIMu5-/view?usp=sharing)  
+  [test dataset of ozfish](https://drive.google.com/file/d/1C_7l2YFc5fXt1DMsuVZPDFKTJLm0syX3/view?usp=sharing)  
   [test dataset of merge dataset](https://drive.google.com/file/d/1abQbj2JhvRNIDNug3FcBzqYYwUEOchfZ/view?usp=sharing)
 2. Download the cfg file of a chosen model.  
   [cfg of different models](https://github.com/tamim662/YOLO-Fish/tree/main/models) 
 3. Download the Model's weights.(google-drive mirror)  
-  [models trained on deepfish](https://drive.google.com/drive/folders/19noH5nyLa_06Hztm4JsZidfQdGOVMtzA?usp=sharing)  
-  [models trained on ozfish](https://drive.google.com/drive/folders/1zLLY__psydTw2EDbejWMPL2nmlOsuag-?usp=sharing)  
-  [models trained on merge dataset](https://drive.google.com/drive/folders/13pQDNSYwXNs6Pd3g8XPSLCy25ND_j8E9?usp=sharing)   
+  [models trained on deepfish](https://drive.google.com/drive/folders/1fTnB09ly49ZaN0VoHN62300ATkWx3DWu?usp=sharing)  
+  [models trained on ozfish](https://drive.google.com/drive/folders/1BmBdxwGCH3IS0kTeDxK2hT8vVvEtd_3o?usp=sharing)  
+  [models trained on merge dataset](https://drive.google.com/drive/folders/1pHa0CqYFXaPJ9KrHHxWUsHyPaxWP9PDG?usp=sharing)   
 4. Content of the file obj.data should be  
 ```
 classes=1
