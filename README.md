@@ -1,5 +1,6 @@
 # YOLO-Fish
 ## A Robust Fish Detection Model to Detect Fish in Realistic Underwater Environment.
+### Accepted At Ecological Informatics [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1574954122002977)
 ![Model Architecture](model_architecture.jpg)
 ![Detection on DeepFish](DeepFish.gif) 
 ![Detection on OzFish](OzFish.gif) 
